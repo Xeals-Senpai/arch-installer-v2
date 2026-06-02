@@ -22,8 +22,8 @@ Boot into the official Arch Linux ISO and ensure you have a working internet con
 Clone the repository:
 
 ```bash
-git clone https://github.com/Xeals-Senpai/arch-installer-v2.git
-cd arch-installer-v2
+git clone https://github.com/Xeals-Senpai/arch-installer.git
+cd arch-installer
 ```
 
 Make the scripts executable:
@@ -43,7 +43,7 @@ Follow the prompts to select the target disk and configure the installation.
 ## Project Structure
 
 ```text
-arch-installer-v2/
+arch-installer/
 ├── docs/
 ├── lib/
 └── install.sh
